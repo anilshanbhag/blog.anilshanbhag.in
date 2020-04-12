@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Analyzing the 2016 elections - The Node</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="Analyzing the 2016 elections">
+<meta itemprop="description" content="The polls got the election results horribly wrong. The data shows that it could have been a lot worse with ranked-choice voting.">
+<meta itemprop="datePublished" content="2017-09-05T14:27:14&#43;00:00" />
+<meta itemprop="dateModified" content="2017-09-05T14:27:14&#43;00:00" />
+<meta itemprop="wordCount" content="561">
+
+
+
+<meta itemprop="keywords" content="politics,data-analysis," /><meta property="og:title" content="Analyzing the 2016 elections" />
+<meta property="og:description" content="The polls got the election results horribly wrong. The data shows that it could have been a lot worse with ranked-choice voting." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.anilshanbhag.in/posts/2016-elections/" />
+<meta property="article:published_time" content="2017-09-05T14:27:14+00:00" />
+<meta property="article:modified_time" content="2017-09-05T14:27:14+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Analyzing the 2016 elections"/>
+<meta name="twitter:description" content="The polls got the election results horribly wrong. The data shows that it could have been a lot worse with ranked-choice voting."/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://blog.anilshanbhag.in/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://blog.anilshanbhag.in/css/main.css" />
+
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+		<script src="https://blog.anilshanbhag.in/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+		<div class="avatar">
+			<a href="https://blog.anilshanbhag.in/">
+				<img src="/img/header.png" alt="The Node" />
+			</a>
+		</div>
+	
+	<h1 class="site-title"><a href="https://blog.anilshanbhag.in/">The Node</a></h1>
+	<div class="site-description"><p>Thoughts of a bytelander</p><nav class="nav social">
+			<ul class="flat"><li><a href="https://github.com/anilshanbhag/" title="Github"><i data-feather="github"></i></a></li><li><a href="https://www.linkedin.com/in/anil-shanbhag/" title="Linkedin"><i data-feather="linkedin"></i></a></li><li><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></li></ul>
+		</nav></div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">05</span>
+							<span class="rest">Sep 2017</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">Analyzing the 2016 elections</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<p>Elections are a treat for data enthusiasts. This elections, even more so ! Every single poll in the US predicted a landslide for Hillary Clinton. Below is an infographic from the New York Times:</p>
+<p><img src="/img/nyt-infographic.png" alt="NYT Infographic"></p>
+<p>The chances of Trump winning Presidency before results started coming out was around 15% ! Everyone got it wrong and in the end he won 306 seats. Being curious, I download the data from AP and turned on my Jupyter notebook. The truth is this could have been a lot worse!</p>
+<!-- raw HTML omitted -->
+<p>The elections had two major candidates: Hillary Clinton from the Democratic Party and Donald Trump from the Republican Party. But in the fray were many other candidates, two of which took a good share (&gt;1%) of the vote share: Jill Stein from the Green Party and Gary Johnson from the Libertarian Party. The Green party is more liberal than the Democratic; the Libertarians are more conservative than Republicans.</p>
+<p>{% asset_img candidates.jpeg %}</p>
+<p>If we consolidate the votes of Hillary+Stein vs Gary+Donald i.e.: making a two candidate race, the Dems would have lost 5 more states == 33 more seats. They would lose in Colorado, Minnesota, New Hampshire, Nevada and Maine. Trump would have gotten 339 seats — a landslide. The map at the top shows how it would look like if that happened.</p>
+<p>This is truly surprising. Living at MIT in Boston, I have so far spoken to 1 Trump supporter. It is like I so far lived in a bubble. In fact a lot of places have very few supporters of either party. From the data, here are the 10 places with the lowest vote percentage for Hillary and for Trump:</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">Schema: County, State: Hillary-Vote Percentage, Trump-Vote Percentage,
+
+Counties with lowest Hillary Clinton Vote Percentage
+King County, TX: 3.140000, 93.710000
+Roberts County, TX: 3.640000, 95.270000
+Banner County, NE: 4.620000, 91.030000
+Garfield County, MT: 4.750000, 91.200000
+McPherson County, NE: 4.900000, 89.860000
+Harding County, SD: 4.940000, 90.250000
+Piute County, UT: 5.020000, 87.030000
+Grant County, NE: 5.080000, 93.150000
+Glasscock County, TX: 5.650000, 91.860000
+Wallace County, KS: 5.780000, 91.270000
+
+Counties with lowest Donald Trump Vote Percentage
+District of Columbia County, DC: 92.850000, 4.120000
+Oglala Lakota County, SD: 86.460000, 8.320000
+Prince Georges County, MD: 89.330000, 8.340000
+Bronx County, NY: 88.730000, 9.590000
+San Francisco County, CA: 85.350000, 9.730000
+New York County, NY: 87.170000, 9.970000
+Petersburg city, VA: 87.520000, 10.560000
+Baltimore city, MD: 85.440000, 10.870000
+Jefferson County, MS: 86.470000, 12.670000
+Clayton County, GA: 85.060000, 13.160000
+</code></pre></div><p>Boston was a close contender for Top 10. New York, SF and other urban centers are heavily Democratic which is probably what made us feel Hillary was going to sweep. In fact, when we check places with more than 0.5 million votes cast, Hillary wins 33 of them compared to just 3 for Trump. The only ones Trump wins are:</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">Maricopa County AZ
+Suffolk County NY
+Tarrant County TX
+</code></pre></div><p>One positive effect of elections was that it showed that it is not always the person with more money who wins. From a previous /r/dataisbeautiful post:</p>
+<p><img src="/img/spending.png" alt="Spending Infographic"></p>
+<h2 id="getting-the-data">Getting the Data</h2>
+<p>The Associated Press releases data for the elections. While not free, I found that JSON endpoints powering their election interactive can be downloaded (it is public). All the data and the notebook with the code can be found here. Warn you the data is only for educational uses and may be used for commercial purposes only with AP’s permission.</p>
+
+			</div>
+
+			<div class="tags">
+				
+					
+						<ul class="flat">
+							
+							<li><a href="/tags/politics">politics</a></li>
+							
+							<li><a href="/tags/data-analysis">data-analysis</a></li>
+							
+						</ul>
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>2017  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-123-45', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script>feather.replace()</script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Credit reports and security in the offline world - The Node</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="Credit reports and security in the offline world">
+<meta itemprop="description" content="Credit reports contain confidential personal information. I just got my hands on a random person&#39;s credit report --- turns out credit reports are sent on ordinary post ! So much for security.">
+<meta itemprop="datePublished" content="2017-12-04T15:09:51&#43;00:00" />
+<meta itemprop="dateModified" content="2017-12-04T15:09:51&#43;00:00" />
+<meta itemprop="wordCount" content="304">
+
+
+
+<meta itemprop="keywords" content="security," /><meta property="og:title" content="Credit reports and security in the offline world" />
+<meta property="og:description" content="Credit reports contain confidential personal information. I just got my hands on a random person&#39;s credit report --- turns out credit reports are sent on ordinary post ! So much for security." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.anilshanbhag.in/posts/credit-report-security/" />
+<meta property="article:published_time" content="2017-12-04T15:09:51+00:00" />
+<meta property="article:modified_time" content="2017-12-04T15:09:51+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Credit reports and security in the offline world"/>
+<meta name="twitter:description" content="Credit reports contain confidential personal information. I just got my hands on a random person&#39;s credit report --- turns out credit reports are sent on ordinary post ! So much for security."/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://blog.anilshanbhag.in/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://blog.anilshanbhag.in/css/main.css" />
+
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+		<script src="https://blog.anilshanbhag.in/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+		<div class="avatar">
+			<a href="https://blog.anilshanbhag.in/">
+				<img src="/img/header.png" alt="The Node" />
+			</a>
+		</div>
+	
+	<h1 class="site-title"><a href="https://blog.anilshanbhag.in/">The Node</a></h1>
+	<div class="site-description"><p>Thoughts of a bytelander</p><nav class="nav social">
+			<ul class="flat"><li><a href="https://github.com/anilshanbhag/" title="Github"><i data-feather="github"></i></a></li><li><a href="https://www.linkedin.com/in/anil-shanbhag/" title="Linkedin"><i data-feather="linkedin"></i></a></li><li><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></li></ul>
+		</nav></div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">04</span>
+							<span class="rest">Dec 2017</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">Credit reports and security in the offline world</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<p>Credit score is a number almost every individual in the country cares about. Your credit score determines if you can get a particular credit card, how much interest you pay on a loan, etc.  Credit scores are calculated based on your credit report, an exhaustive account of all your past dealings with financial entities.</p>
+<p>There are 3 major credit reporting agencies in the US: Equifax, TransUnion and Experian. The <a href="https://www.consumer.ftc.gov/articles/0155-free-credit-reports">law</a> requires each of these nationwide credit reporting companies to provide you with a free copy of your credit report, at your request, once every 12 months. Given the private nature of this information, you would assume they have mechanisms to let you access this information securely. TransUnion and Experian allow you access it online or mail, but for Equifax says the only way to get your report is via snail mail. What! why would anyone in 2017 send credit reports by mail; it insecure, can easily end up get lost / misplaced / in the hands of an identity thief. Below are two pages from an Equifax credit report I accidently ended up recieving.</p>
+<p><img src="/img/1.png" alt="Credit Report Screenshot1"></p>
+<p><img src="/img/2.png" alt="Credit Report Screenshot1"></p>
+<p>By the virtue of getting access to the report, I now know the person's last 4 digits of SSN, bank account numbers, addresses, dob, etc. The following information in the hands of the wrong person can cause some serious damage.</p>
+<p>The <a href="https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html">recent Equifax hack</a> was an eye-opener. We suddenly came to know the gross incompetence of these agencies. Equifax ended up firing their Chief Security Officer who was a <a href="https://www.marketwatch.com/story/equifax-ceo-hired-a-music-major-as-the-companys-chief-security-officer-2017-09-15">music major</a>.  Above example shows that these agencies still live in stone age and are not geared to ensure  security and privacy of private information. Confidential information should not be sent via mail period. This is not the first post on this <a href="http://www.motherjones.com/kevin-drum/2017/09/experian-transunion-equifax-free-credit-report-online-hell/">topic</a>; hope some day these agencies mend their ways.</p>
+
+			</div>
+
+			<div class="tags">
+				
+					
+						<ul class="flat">
+							
+							<li><a href="/tags/security">security</a></li>
+							
+						</ul>
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>2017  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-123-45', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script>feather.replace()</script>
+</body>
+</html>

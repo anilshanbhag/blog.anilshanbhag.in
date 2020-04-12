@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Node</title>
+    <link>https://blog.anilshanbhag.in/</link>
+    <description>Recent content on The Node</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2017 15:09:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.anilshanbhag.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credit reports and security in the offline world</title>
+      <link>https://blog.anilshanbhag.in/posts/credit-report-security/</link>
+      <pubDate>Mon, 04 Dec 2017 15:09:51 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/credit-report-security/</guid>
+      <description>Credit score is a number almost every individual in the country cares about. Your credit score determines if you can get a particular credit card, how much interest you pay on a loan, etc. Credit scores are calculated based on your credit report, an exhaustive account of all your past dealings with financial entities.
+There are 3 major credit reporting agencies in the US: Equifax, TransUnion and Experian. The law requires each of these nationwide credit reporting companies to provide you with a free copy of your credit report, at your request, once every 12 months.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing the 2016 elections</title>
+      <link>https://blog.anilshanbhag.in/posts/2016-elections/</link>
+      <pubDate>Tue, 05 Sep 2017 14:27:14 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/2016-elections/</guid>
+      <description>Elections are a treat for data enthusiasts. This elections, even more so ! Every single poll in the US predicted a landslide for Hillary Clinton. Below is an infographic from the New York Times:
+The chances of Trump winning Presidency before results started coming out was around 15% ! Everyone got it wrong and in the end he won 306 seats. Being curious, I download the data from AP and turned on my Jupyter notebook.</description>
+    </item>
+    
+  </channel>
+</rss>
