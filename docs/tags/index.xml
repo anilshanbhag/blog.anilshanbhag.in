@@ -6,10 +6,24 @@
     <description>Recent content in Tags on The Node</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life</title>
+      <link>https://blog.anilshanbhag.in/tags/life/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/tags/life/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://blog.anilshanbhag.in/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>db</title>
+      <link>https://blog.anilshanbhag.in/tags/db/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/tags/db/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>world</title>

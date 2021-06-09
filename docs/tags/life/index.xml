@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on The Node</title>
+    <link>https://blog.anilshanbhag.in/tags/life/</link>
+    <description>Recent content in life on The Node</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Focus</title>
+      <link>https://blog.anilshanbhag.in/posts/focus/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/focus/</guid>
+      <description>Sam Altman in his How To Be Successful had the following to say about focus
+6. Focus Focus is a force multiplier on work. Almost everyone I’ve ever met would be well-served by spending more time thinking about what to focus on. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.</description>
+    </item>
+    
+  </channel>
+</rss>

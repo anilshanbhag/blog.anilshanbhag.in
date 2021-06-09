@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>db on The Node</title>
+    <link>https://blog.anilshanbhag.in/tags/db/</link>
+    <description>Recent content in db on The Node</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyper and In-Memory Databases</title>
+      <link>https://blog.anilshanbhag.in/posts/hyper/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/hyper/</guid>
+      <description>AWS has made it easy to get the latest and greatest hardware. You can easily get machines O(TB) of DRAM for a few dollars per hour. r5.16x large instance for example has the following specs:
+r5.16xlarge	64vCPU	256ECU	512 GiB	EBS Only	$4.032 per Hour TPC-H benchmark is a standard dataset is a popular OLAP benchmark. Scale factor 1000 of TPC-H benchmark generates 1TB of data which after removing ununsed columns and dictionary compression come to nearly 280GB of data.</description>
+    </item>
+    
+  </channel>
+</rss>

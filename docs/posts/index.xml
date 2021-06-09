@@ -6,10 +6,26 @@
     <description>Recent content in Posts on The Node</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Focus</title>
+      <link>https://blog.anilshanbhag.in/posts/focus/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/focus/</guid>
+      <description>Sam Altman in his How To Be Successful had the following to say about focus
+6. Focus Focus is a force multiplier on work. Almost everyone I’ve ever met would be well-served by spending more time thinking about what to focus on. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.</description>
+    </item>
     
-	<atom:link href="https://blog.anilshanbhag.in/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Hyper and In-Memory Databases</title>
+      <link>https://blog.anilshanbhag.in/posts/hyper/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/hyper/</guid>
+      <description>AWS has made it easy to get the latest and greatest hardware. You can easily get machines O(TB) of DRAM for a few dollars per hour. r5.16x large instance for example has the following specs:
+r5.16xlarge	64vCPU	256ECU	512 GiB	EBS Only	$4.032 per Hour TPC-H benchmark is a standard dataset is a popular OLAP benchmark. Scale factor 1000 of TPC-H benchmark generates 1TB of data which after removing ununsed columns and dictionary compression come to nearly 280GB of data.</description>
+    </item>
     
     <item>
       <title>Coronavirus and Europe - Storm Beneath the Calm</title>
@@ -17,7 +33,7 @@
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.anilshanbhag.in/posts/coronavirus-economy/</guid>
-      <description>Over the years, I have had the good fortune of travelling to many countries - one of which is Italy. Italy is a beautiful country with many historic cities - Rome, Vatican, Florence, Milan, etc. The travel and tourism industry is the largest industry in Italy - accounting for ~13% of Italy&#39;s GDP.
+      <description>Over the years, I have had the good fortune of travelling to many countries - one of which is Italy. Italy is a beautiful country with many historic cities - Rome, Vatican, Florence, Milan, etc. The travel and tourism industry is the largest industry in Italy - accounting for ~13% of Italy&amp;rsquo;s GDP.
 The coronavirus pandemic has torpedoed the travel industry. Large parts of Italy are on lock down after being hit by the biggest outbreak of COVID-19.</description>
     </item>
     
