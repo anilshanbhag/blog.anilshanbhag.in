@@ -6,7 +6,18 @@
     <description>Recent content in Posts on The Node</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 months at a startup</title>
+      <link>https://blog.anilshanbhag.in/posts/11months/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.anilshanbhag.in/posts/11months/</guid>
+      <description>Reflecting on my time at IB, some of the key lessons I learnt (in no particular order)
+ Use Jira  Thats it! use jira if you have more than 1 team. Give the team a goal using epics, track all feature rollouts, bugs, contributions per employee, etc.
+ Employee Morale and Churn  Startups go through waves. Sometime it feels like you are killing it. Close a new customer, launch a new product, land a great hire, etc.</description>
+    </item>
+    
     <item>
       <title>Focus</title>
       <link>https://blog.anilshanbhag.in/posts/focus/</link>
