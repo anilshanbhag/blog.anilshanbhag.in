@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.anilshanbhag.in/posts/</loc>
+    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.anilshanbhag.in/tags/</loc>
+    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.anilshanbhag.in/posts/china/</loc>
+    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.anilshanbhag.in/</loc>
+    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.anilshanbhag.in/tags/world/</loc>
+    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.anilshanbhag.in/posts/11months/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.anilshanbhag.in/tags/life/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.anilshanbhag.in/posts/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.anilshanbhag.in/tags/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.anilshanbhag.in/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +54,6 @@
   
   <url>
     <loc>https://blog.anilshanbhag.in/posts/coronavirus-economy/</loc>
-    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.anilshanbhag.in/tags/world/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url>
   
