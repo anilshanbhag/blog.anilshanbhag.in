@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on The Node</title>
+    <title>Life on The Node</title>
     <link>https://blog.anilshanbhag.in/tags/life/</link>
-    <description>Recent content in life on The Node</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Life on The Node</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.anilshanbhag.in/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things To Do 2022 Edition</title>
       <link>https://blog.anilshanbhag.in/posts/2022-amp-it-up/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/2022-amp-it-up/</guid>
-      <description>System for Continuous Improvement James Clear&amp;rsquo;s book Atomic Habits talks about idea of continuous improvement i.e., 1% better every day. The trick is to form habits.
-Focus Sam Altman on How to Successful.
-Number 5: Focus is a force multiplier on work. Part of it is to just Say No To Things.
-Do the 10k Work Khe Hy on The magic of doing 10k work
-Amp It Up! Frank Slootman on Amp It Up!</description>
+      <description>&lt;h4 id=&#34;system-for-continuous-improvement&#34;&gt;System for Continuous Improvement&lt;/h4&gt;&#xA;&lt;p&gt;James Clear&amp;rsquo;s book &lt;a href=&#34;https://jamesclear.com/atomic-habits&#34;&gt;Atomic Habits&lt;/a&gt; talks about idea of continuous improvement i.e., 1% better every day. The trick is to form habits.&lt;/p&gt;&#xA;&lt;h4 id=&#34;focus&#34;&gt;Focus&lt;/h4&gt;&#xA;&lt;p&gt;Sam Altman on &lt;a href=&#34;https://blog.samaltman.com/how-to-be-successful&#34;&gt;How to Successful&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Number 5: Focus is a force multiplier on work. Part of it is to just Say No To Things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;do-the-10k-work&#34;&gt;Do the 10k Work&lt;/h4&gt;&#xA;&lt;p&gt;Khe Hy on &lt;a href=&#34;https://radreads.co/10k-work/&#34;&gt;The magic of doing 10k work&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;amp-it-up&#34;&gt;Amp It Up!&lt;/h4&gt;&#xA;&lt;p&gt;Frank Slootman on &lt;a href=&#34;https://www.linkedin.com/pulse/amp-up-frank-slootman/&#34;&gt;Amp It Up!&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>11 months at a startup</title>
       <link>https://blog.anilshanbhag.in/posts/11months/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/11months/</guid>
-      <description>Reflecting on my time at IB, some of the key lessons I learnt (in no particular order)
- Use Jira  Thats it! use jira if you have more than 1 team. Give the team a goal using epics, track all feature rollouts, bugs, contributions per employee, etc.
- Employee Morale and Churn  Startups go through waves. Sometime it feels like you are killing it. Close a new customer, launch a new product, land a great hire, etc.</description>
+      <description>&lt;p&gt;Reflecting on my time at IB, some of the key lessons I learnt (in no particular order)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use Jira&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thats it! use jira if you have more than 1 team. Give the team a goal using epics, track all feature rollouts, bugs, contributions per employee, etc.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Employee Morale and Churn&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Startups go through waves. Sometime it feels like you are killing it.&#xA;Close a new customer, launch a new product, land a great hire, etc. Sometimes it feels like outright dumpster fire.&#xA;Inevitably, this leads to some employees feeling low and will quit. IB is no different, however one thing&#xA;that helps a lot is if the core team, especially eng is stable. IB has all key managers stay through these cycles for many years and plan to stay for many more.&#xA;This creates stability as foot soldiers churn is not as determinental as commander churn.&#xA;An orthongal point is you need to identify and fire useless people and more importantly detractors fast.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Focus</title>
       <link>https://blog.anilshanbhag.in/posts/focus/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/focus/</guid>
-      <description>Sam Altman in his How To Be Successful had the following to say about focus
-6. Focus  Focus is a force multiplier on work.  Almost everyone I’ve ever met would be well-served by spending more time thinking about what to focus on. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.</description>
+      <description>&lt;p&gt;Sam Altman in his &lt;code&gt;How To Be Successful&lt;/code&gt; had the following to say about focus&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;6. Focus&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Focus is a force multiplier on work.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Almost everyone I’ve ever met would be well-served by spending more time thinking about what to focus on. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Once you have figured out what to do, be unstoppable about getting your small handful of priorities accomplished quickly. I have yet to meet a slow-moving person who is very successful.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Focus is an incredible force. I have found many times that working with full focus for a day&#xA;gets more work done than without focus work for a week. Despite the huge benefits, maintaing focus is hard!&#xA;When your work is on the computer, it is hard not to want to peep into Twitter to see what is happening or open&#xA;Youtube to checkout a few videos.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

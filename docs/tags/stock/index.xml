@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stock on The Node</title>
+    <title>Stock on The Node</title>
     <link>https://blog.anilshanbhag.in/tags/stock/</link>
-    <description>Recent content in stock on The Node</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Stock on The Node</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/stock/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.anilshanbhag.in/tags/stock/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netflix thesis</title>
       <link>https://blog.anilshanbhag.in/posts/netflix-thesis/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/netflix-thesis/</guid>
-      <description>First mover advantage. The problem Netflix solves for consumers is entertainment. Netflix solves this problem for a large base - 200m+. While competing services will come up, customer acquisition will be challenging. Young folks who have had Netflix and Amazon Prime Video for years will not want to pay for another third service. They might subscribe to HBO Max to watch one show/movie like Dune and cancel after watching. Unless these new services pump out content at the rate of Netflix, they will not get traction.</description>
+      <description>&lt;p&gt;&lt;strong&gt;First mover advantage.&lt;/strong&gt; The problem Netflix solves for consumers is entertainment. Netflix solves this problem for a large base - 200m+. While competing services will come up, customer acquisition will be challenging. Young folks who have had Netflix and Amazon Prime Video for years will not want to pay for another third service. They might subscribe to HBO Max to watch one show/movie like Dune and cancel after watching. Unless these new services pump out content at the rate of Netflix, they will not get traction.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

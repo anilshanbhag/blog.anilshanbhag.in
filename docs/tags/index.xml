@@ -4,71 +4,58 @@
     <title>Tags on The Node</title>
     <link>https://blog.anilshanbhag.in/tags/</link>
     <description>Recent content in Tags on The Node</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.anilshanbhag.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>stock</title>
-      <link>https://blog.anilshanbhag.in/tags/stock/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.anilshanbhag.in/tags/stock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>https://blog.anilshanbhag.in/tags/life/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.anilshanbhag.in/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>world</title>
+      <title>World</title>
       <link>https://blog.anilshanbhag.in/tags/world/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.anilshanbhag.in/tags/world/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>db</title>
+      <title>Stock</title>
+      <link>https://blog.anilshanbhag.in/tags/stock/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.anilshanbhag.in/tags/stock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://blog.anilshanbhag.in/tags/life/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.anilshanbhag.in/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Db</title>
       <link>https://blog.anilshanbhag.in/tags/db/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/tags/db/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>security</title>
+      <title>Security</title>
       <link>https://blog.anilshanbhag.in/tags/security/</link>
       <pubDate>Mon, 04 Dec 2017 15:09:51 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/tags/security/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data-analysis</title>
+      <title>Data-Analysis</title>
       <link>https://blog.anilshanbhag.in/tags/data-analysis/</link>
       <pubDate>Tue, 05 Sep 2017 14:27:14 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/tags/data-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>politics</title>
+      <title>Politics</title>
       <link>https://blog.anilshanbhag.in/tags/politics/</link>
       <pubDate>Tue, 05 Sep 2017 14:27:14 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/tags/politics/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.anilshanbhag.in/posts/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.anilshanbhag.in/tags/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.anilshanbhag.in/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.anilshanbhag.in/posts/when-china-learns/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.anilshanbhag.in/tags/world/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.anilshanbhag.in/posts/netflix-thesis/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.anilshanbhag.in/posts/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.anilshanbhag.in/tags/stock/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.anilshanbhag.in/tags/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.anilshanbhag.in/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.anilshanbhag.in/tags/life/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.anilshanbhag.in/posts/china/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.anilshanbhag.in/tags/world/</loc>
     <lastmod>2021-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.anilshanbhag.in/posts/11months/</loc>

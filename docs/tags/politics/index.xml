@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>politics on The Node</title>
+    <title>Politics on The Node</title>
     <link>https://blog.anilshanbhag.in/tags/politics/</link>
-    <description>Recent content in politics on The Node</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Politics on The Node</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 14:27:14 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Sep 2017 14:27:14 +0000</lastBuildDate>
+    <atom:link href="https://blog.anilshanbhag.in/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyzing the 2016 elections</title>
       <link>https://blog.anilshanbhag.in/posts/2016-elections/</link>
       <pubDate>Tue, 05 Sep 2017 14:27:14 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/2016-elections/</guid>
-      <description>Elections are a treat for data enthusiasts. This elections, even more so ! Every single poll in the US predicted a landslide for Hillary Clinton. Below is an infographic from the New York Times:
-The chances of Trump winning Presidency before results started coming out was around 15% ! Everyone got it wrong and in the end he won 306 seats. Being curious, I download the data from AP and turned on my Jupyter notebook.</description>
+      <description>&lt;p&gt;Elections are a treat for data enthusiasts. This elections, even more so ! Every single poll in the US predicted a landslide for Hillary Clinton. Below is an infographic from the New York Times:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.anilshanbhag.in/img/nyt-infographic.png&#34; alt=&#34;NYT Infographic&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The chances of Trump winning Presidency before results started coming out was around 15% ! Everyone got it wrong and in the end he won 306 seats. Being curious, I download the data from AP and turned on my Jupyter notebook. The truth is this could have been a lot worse!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

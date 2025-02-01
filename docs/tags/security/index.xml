@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>security on The Node</title>
+    <title>Security on The Node</title>
     <link>https://blog.anilshanbhag.in/tags/security/</link>
-    <description>Recent content in security on The Node</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Security on The Node</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2017 15:09:51 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2017 15:09:51 +0000</lastBuildDate>
+    <atom:link href="https://blog.anilshanbhag.in/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit reports and security in the offline world</title>
       <link>https://blog.anilshanbhag.in/posts/credit-report-security/</link>
       <pubDate>Mon, 04 Dec 2017 15:09:51 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/credit-report-security/</guid>
-      <description>Credit score is a number almost every individual in the country cares about. Your credit score determines if you can get a particular credit card, how much interest you pay on a loan, etc. Credit scores are calculated based on your credit report, an exhaustive account of all your past dealings with financial entities.
-There are 3 major credit reporting agencies in the US: Equifax, TransUnion and Experian. The law requires each of these nationwide credit reporting companies to provide you with a free copy of your credit report, at your request, once every 12 months.</description>
+      <description>&lt;p&gt;Credit score is a number almost every individual in the country cares about. Your credit score determines if you can get a particular credit card, how much interest you pay on a loan, etc.  Credit scores are calculated based on your credit report, an exhaustive account of all your past dealings with financial entities.&lt;/p&gt;&#xA;&lt;p&gt;There are 3 major credit reporting agencies in the US: Equifax, TransUnion and Experian. The &lt;a href=&#34;https://www.consumer.ftc.gov/articles/0155-free-credit-reports&#34;&gt;law&lt;/a&gt; requires each of these nationwide credit reporting companies to provide you with a free copy of your credit report, at your request, once every 12 months. Given the private nature of this information, you would assume they have mechanisms to let you access this information securely. TransUnion and Experian allow you access it online or mail, but for Equifax says the only way to get your report is via snail mail. What! why would anyone in 2017 send credit reports by mail; it insecure, can easily end up get lost / misplaced / in the hands of an identity thief. Below are two pages from an Equifax credit report I accidently ended up recieving.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

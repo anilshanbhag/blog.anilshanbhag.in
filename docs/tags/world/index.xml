@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>world on The Node</title>
+    <title>World on The Node</title>
     <link>https://blog.anilshanbhag.in/tags/world/</link>
-    <description>Recent content in world on The Node</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in World on The Node</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.anilshanbhag.in/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.anilshanbhag.in/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When China Learns - Auto Edition</title>
+      <link>https://blog.anilshanbhag.in/posts/when-china-learns/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.anilshanbhag.in/posts/when-china-learns/</guid>
+      <description>&lt;p&gt;China has long been a manufacturing powerhouse, excelling in industries from electronics to textiles. Its ability to produce goods at scale and lower costs has fueled its dominance. However, in industries requiring advanced technology and strong brand recognition, China has historically lagged behind. That is now changing—fast.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rise-of-chinese-automakers&#34;&gt;Rise of Chinese Automakers&lt;/h2&gt;&#xA;&lt;p&gt;The automotive industry is a prime example of rise of China. In 2019, none of the top 10 global automakers were Chinese. Despite being the world&amp;rsquo;s largest automotive market, Chinese car manufacturers struggled with quality, technology, and brand perception compared to established international brands.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The China Model</title>
       <link>https://blog.anilshanbhag.in/posts/china/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/china/</guid>
-      <description>The reason for writing this post is the recent actions by Chinese regulators like banning afterschool tutoring, the ban on video games for kids, Alibaba and Tencent crackdown, etc.
-The Chinese model of Capitalism, also referred to Socialist Market Economy is a form of government where the state takes significant interest in managing the economy. This is quite different from India or the US where we practice free markets and minimal state involvement.</description>
+      <description>&lt;p&gt;The reason for writing this post is the recent actions by Chinese regulators like banning afterschool tutoring, the ban on video games for kids, Alibaba and Tencent crackdown, etc.&lt;/p&gt;&#xA;&lt;p&gt;The Chinese model of Capitalism, also referred to Socialist Market Economy is a form of government where the state takes significant interest in managing the&#xA;economy. This is quite different from India or the US where we practice free markets and minimal state involvement. If we ignore the politics, it is undeniable that&#xA;the Chinese model has produced dramatically better outcomes for its people compared to India/US.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coronavirus and Europe - Storm Beneath the Calm</title>
       <link>https://blog.anilshanbhag.in/posts/coronavirus-economy/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.anilshanbhag.in/posts/coronavirus-economy/</guid>
-      <description>Over the years, I have had the good fortune of travelling to many countries - one of which is Italy. Italy is a beautiful country with many historic cities - Rome, Vatican, Florence, Milan, etc. The travel and tourism industry is the largest industry in Italy - accounting for ~13% of Italy&amp;rsquo;s GDP.
-The coronavirus pandemic has torpedoed the travel industry. Large parts of Italy are on lock down after being hit by the biggest outbreak of COVID-19.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://blog.anilshanbhag.in/img/falling-dominoes.webp&#34; alt=&#34;Falling Dominoes&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I have had the good fortune of travelling to many countries - one of which is Italy. Italy is a beautiful country with many historic cities - Rome, Vatican, Florence, Milan, etc. The travel and tourism industry is the largest industry in Italy - accounting for ~13% of Italy&amp;rsquo;s GDP.&lt;/p&gt;&#xA;&lt;p&gt;The coronavirus pandemic has torpedoed the travel industry. Large parts of Italy are on lock down after being hit by the biggest outbreak of COVID-19. All famous tourist attractions are closed for now and not likely to open before mid-May. People plan for travel many months in advance &amp;mdash; even if things do open there is likely going to significantly lower level for a few months. So, in effect the tourism industry is going at close to 0 revenue until August. The problem is tourism is seasonal. Looking at air traffic in Europe:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

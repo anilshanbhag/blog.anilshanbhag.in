@@ -216,7 +216,6 @@ ul {
     width: 64px;
     height: 64px;
     overflow: hidden;
-    border-radius: 100%;
 }
 .header .site-title {
     margin: 0 0 10px 0;
